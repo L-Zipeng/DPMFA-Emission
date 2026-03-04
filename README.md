@@ -48,6 +48,8 @@ Keywords: Plastic; MFA; Release; Dynamic; Microplastics
 - **Other Files**
   - `LICENSE`: License file for the repository.
   - `README.md`: Documentation for the project (this file).
+  
+  Full input and output results are available: Zenodo. https://doi.org/10.5281/zenodo.11047489
 
 ---
 
